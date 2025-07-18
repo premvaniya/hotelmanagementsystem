@@ -49,3 +49,34 @@ Welcome to my **Hotel Management System**, crafted using **Java**, **Swing**, an
 ---
 
 
+---
+
+## ✨ Highlights
+
+- Smooth & intuitive user experience
+- Robust backend integration with MySQL
+- Clean layout using Swing components
+- Full CRUD operations for all modules
+
+---
+
+## 📌 Future Enhancements
+
+- 🌐 Web version with React & Node.js  
+- 🔐 Role-based access control  
+- 📈 Reports with charts and graphs  
+- 📱 Mobile compatibility using Flutter
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to [GeeksforGeeks](https://www.geeksforgeeks.org/) and the developer community for resources and tutorials!
+
+---
+
+## 📣 Tagline
+
+> “Managing hotel, in style.” 💡
+
+
